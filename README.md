@@ -1,2 +1,44 @@
 # deep-learning-atoz
 Deep Learning course by Kirill Eremenko and Hadelin de Ponteves
+
+1. Introduction
+2. Artificial Neural Networks (ANN)
+3. Convolutional Neural Networks (CNN)
+4. Recurrent Neural Networks (RNN)
+
+
+
+
+ANN
+Additional Reading:
+
+Yann LeCun et al., 1998, Efficient BackProp
+By Xavier Glorot et al., 2011, Deep sparse rectifier neural networks
+CrossValidated, 2015, A list of cost functions used in neural networks, alongside applications
+Andrew Trask, 2015, A Neural Network in 13 lines of Python (Part 2 – Gradient Descent)
+Michael Nielsen, 2015, Neural Networks and Deep Learning
+
+CNN
+Additional Reading:
+
+Yann LeCun et al., 1998, Gradient-Based Learning Applied to Document Recognition
+Jianxin Wu, 2017, Introduction to Convolutional Neural Networks
+C.-C. Jay Kuo, 2016, Understanding Convolutional Neural Networks with A Mathematical Model
+Kaiming He et al., 2015, Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
+Dominik Scherer et al., 2010, Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition
+Adit Deshpande, 2016, The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)
+Rob DiPietro, 2016, A Friendly Introduction to Cross-Entropy Loss
+Peter Roelants, 2016, How to implement a neural network Intermezzo 2
+
+RNN
+Oscar Sharp & Benjamin, 2016, Sunspring
+Sepp (Josef) Hochreiter, 1991, Untersuchungen zu dynamischen neuronalen Netzen
+Yoshua Bengio, 1994, Learning Long-Term Dependencies with Gradient Descent is Difficult
+Razvan Pascanu, 2013, On the difficulty of training recurrent neural networks
+Sepp Hochreiter & Jurgen Schmidhuber, 1997, Long Short-Term Memory
+Christopher Olah, 2015, Understanding LSTM Networks
+Shi Yan, 2016, Understanding LSTM and its diagrams
+Andrej Karpathy, 2015, The Unreasonable Effectiveness of Recurrent Neural Networks
+Andrej Karpathy, 2015, Visualizing and Understanding Recurrent Networks
+Klaus Greff, 2015, LSTM: A Search Space Odyssey
+Xavier Glorot, 2011, Deep sparse rectifier neural networks
