@@ -12,7 +12,7 @@ Deep Learning course by Kirill Eremenko and Hadelin de Ponteves
 
 
 
-# ANN
+## ANN
 Additional Reading:
 
 Yann LeCun et al., 1998, Efficient BackProp
@@ -21,7 +21,7 @@ CrossValidated, 2015, A list of cost functions used in neural networks, alongsid
 Andrew Trask, 2015, A Neural Network in 13 lines of Python (Part 2 – Gradient Descent)
 Michael Nielsen, 2015, Neural Networks and Deep Learning
 
-# CNN
+## CNN
 Additional Reading:
 
 Yann LeCun et al., 1998, Gradient-Based Learning Applied to Document Recognition
@@ -33,7 +33,7 @@ Adit Deshpande, 2016, The 9 Deep Learning Papers You Need To Know About (Underst
 Rob DiPietro, 2016, A Friendly Introduction to Cross-Entropy Loss
 Peter Roelants, 2016, How to implement a neural network Intermezzo 2
 
-# RNN
+## RNN
 Additional Reading:
 
 Oscar Sharp & Benjamin, 2016, Sunspring
